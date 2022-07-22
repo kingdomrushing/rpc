@@ -1,0 +1,2 @@
+consistentHashLoadBalance=com.xxx.rpc.registry.loadbalance.loadbalancer.ConsistentHashLoadBalance
+randomLoadBalance=com.xxx.rpc.registry.loadbalance.loadbalancer.RandomLoadBalance

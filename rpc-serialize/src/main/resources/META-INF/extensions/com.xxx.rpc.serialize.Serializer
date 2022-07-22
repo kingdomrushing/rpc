@@ -1,3 +1,4 @@
 kyro=com.xxx.rpc.serialize.kyro.KryoSerializer
 protostuff=com.xxx.rpc.serialize.protostuff.ProtostuffSerializer
 hessian=com.xxx.rpc.serialize.hessian.HessianSerializer
+json=com.xxx.rpc.serialize.json.JSONSerializer
